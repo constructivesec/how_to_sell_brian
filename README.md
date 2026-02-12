@@ -202,8 +202,7 @@ If you've actually read this page (rather than having an AI summarize it for you
 
 **I know two other people named Brian Quick in the Indianapolis area. Make an intelligent guess about who they are and why I would know them.**
 
-This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = your email goes straight to spam.
-
+This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = you dont read instructions or you think your time is more valuable than my time.
 ## Final Thoughts
 
 I respect vendors who respect my time. If your solution genuinely addresses healthcare payment integrity security challenges during organizational transformation, and you can communicate that concisely via email, I'll read it.
