@@ -139,7 +139,7 @@ Problems I'm actively solving that might interest me:
 **I have a VAR I've worked with for 25 years. We have excellent rapport and trust. I'm not switching. If your product requires a VAR, work through mine.**
 
 ### Generic Sales Tactics
-- ❌ FUD (Fear, Uncertainty, Doubt) about breaches
+- ❌ FUD (Fear, Uncertainty, Doubt) about recent breaches
 - ❌ "Everyone in healthcare is doing this..."
 - ❌ Scheduling a demo before understanding our needs
 - ❌ Multi-email sequences with varying creative approaches
@@ -200,7 +200,7 @@ If you've actually read this page (rather than having an AI summarize it for you
 
 **I know two other people named Brian Quick in the Indianapolis area. Make an intelligent guess about who they are and why I would know them.**
 
-This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = your email goes straight to spam.
+This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = you clearly value your time more than my time. Probably not a good way to start a relationship.
 
 ## Final Thoughts
 
