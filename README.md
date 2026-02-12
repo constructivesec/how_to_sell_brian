@@ -215,8 +215,3 @@ If you're blasting generic enterprise security pitches via phone calls and aggre
 
 *Last updated: February 2026*
 
-**The best vendors I work with understand my business before they contact me.**
-
----
-
-*Last updated: February 2026*
