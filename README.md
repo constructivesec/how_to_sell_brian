@@ -3,7 +3,7 @@
 
 ## Start Here: Understanding What I Actually Need
 
-I'm the CISO at Machinify, a healthcare payment integrity company managing the complex security landscape of a recently merged organization spanning five entities with 3,200+ employees. We serve major healthcare payers and maintain HITRUST r2 and SOC 2 certifications while handling protected health information.
+I'm the CISO at Machinify, a healthcare payment integrity company managing the complex security landscape of a recently merged organization spanning five entities with nearly 3,000 employees. We serve major healthcare payers and maintain HITRUST r2 and SOC 2 certifications while handling protected health information.
 
 **My current reality:** Post-merger integration, infrastructure consolidation across multiple entities, HITRUST audits, customer compliance requirements, and AI governance in healthcare payment integrity.
 
