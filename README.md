@@ -1,13 +1,15 @@
 # how_to_sell_brian
-How to Work With Brian: A Guide for Security Vendors
-
 # How to Work With Brian: A Guide for Security Vendors
 
 ## Start Here: Understanding What I Actually Need
 
-I'm the CISO at Machinify, a healthcare payment integrity company managing the complex security landscape of a recently merged organization spanning five entities with nearly 3,000 employees. We serve major healthcare payers and maintain HITRUST r2 and SOC 2 certifications while handling protected health information.
+I'm the CISO at Machinify, a healthcare payment integrity company managing the complex security landscape of a recently merged organization spanning five entities with 3,200+ employees. We serve major healthcare payers and maintain HITRUST r2 and SOC 2 certifications while handling protected health information.
 
 **My current reality:** Post-merger integration, infrastructure consolidation across multiple entities, HITRUST audits, customer compliance requirements, and AI governance in healthcare payment integrity.
+
+## Understanding My Decision-Making Style
+
+I'm a pragmatic skeptic with strong technical gatekeeper tendencies. I've seen enough vendor pitches to spot BS instantly. I make decisions based on technical merit and honest assessment of fit - not relationships, not ROI theater, not sales charm. I respect competence and directness. I'll move fast when presented with clear technical evidence, but I'll shut down anything that feels like manipulation or time-wasting. I know what I need, I've done my homework, and I want vendors to prove they can deliver - or admit they can't.
 
 ## What Works (Do This)
 
@@ -139,7 +141,7 @@ Problems I'm actively solving that might interest me:
 **I have a VAR I've worked with for 25 years. We have excellent rapport and trust. I'm not switching. If your product requires a VAR, work through mine.**
 
 ### Generic Sales Tactics
-- ❌ FUD (Fear, Uncertainty, Doubt) about recent breaches
+- ❌ FUD (Fear, Uncertainty, Doubt) about breaches
 - ❌ "Everyone in healthcare is doing this..."
 - ❌ Scheduling a demo before understanding our needs
 - ❌ Multi-email sequences with varying creative approaches
@@ -200,13 +202,19 @@ If you've actually read this page (rather than having an AI summarize it for you
 
 **I know two other people named Brian Quick in the Indianapolis area. Make an intelligent guess about who they are and why I would know them.**
 
-This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = you clearly value your time more than my time. Probably not a good way to start a relationship.
+This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = your email goes straight to spam.
 
 ## Final Thoughts
 
 I respect vendors who respect my time. If your solution genuinely addresses healthcare payment integrity security challenges during organizational transformation, and you can communicate that concisely via email, I'll read it.
 
 If you're blasting generic enterprise security pitches via phone calls and aggressive email sequences, you're wasting both our time.
+
+**The best vendors I work with understand my business before they contact me.**
+
+---
+
+*Last updated: February 2026*
 
 **The best vendors I work with understand my business before they contact me.**
 
