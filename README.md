@@ -77,7 +77,7 @@ Problems I'm actively solving that might interest me:
 
 ## What Doesn't Work (Don't Do This)
 
-### Phone Calls
+### Agressive or Deceptive Contacts
 - ❌ Cold calls to my office
 - ❌ LinkedIn InMail pretending we have a connection
 - ❌ Calls after business hours
