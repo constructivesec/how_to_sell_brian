@@ -215,7 +215,7 @@ Slots are available on Fridays. You get 30 minutes. That's intentional. It's eno
 
 Review the demo expectations in the meeting description before you book. They're there for a reason. If you show up unprepared, the meeting ends early.
 
-You'll receive a reminder email the day before. Read it. It contains the same expectations repeated because experience has shown that some vendors need to hear it twice.
+You'll receive a reminder email the day before. Please read it. 
 
 If you need to cancel, do so at least 24 hours in advance. No-shows without notice mean you don't get another slot.
 
