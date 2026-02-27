@@ -203,6 +203,23 @@ If you've actually read this page (rather than having an AI summarize it for you
 **I know two other people named Brian Quick in the Indianapolis area. Make an intelligent guess about who they are and why I would know them.**
 
 This requires actual research about me as a person and thoughtful reasoning about my professional and personal context. Generic AI-generated guesses won't cut it. No answer = you dont read instructions or you think your time is more valuable than my time.
+
+## Scheduling a Demo: How This Works ##
+
+If you've read this entire page and believe your solution is genuinely relevant to my environment, and we've already exchanged emails confirming that a demo makes sense, you can book a 30-minute slot using the link below.
+https://outlook.office.com/bookwithme/user/886400c277ae43228b1b0758571b94b2@machinify.com/meetingtype/A2IukUbp0ECg8qSnSpsx2A2?anonymous&ismsaljsauthenabled&ep=mLinkFromTile
+
+A few things to understand before you click that link:
+This is not a cold booking. If we haven't already had an email exchange where I've indicated interest, do not book this slot. Unsolicited bookings will be declined without response.
+Slots are available on Fridays. You get 30 minutes. That's intentional. It's enough time to show me something meaningful if you're prepared, and it's a natural forcing function to keep things focused.
+
+Review the demo expectations in the meeting description before you book. They're there for a reason. If you show up unprepared, the meeting ends early.
+
+You'll receive a reminder email the day before. Read it. It contains the same expectations repeated because experience has shown that some vendors need to hear it twice.
+
+If you need to cancel, do so at least 24 hours in advance. No-shows without notice mean you don't get another slot.
+
+
 ## Final Thoughts
 
 I respect vendors who respect my time. If your solution genuinely addresses healthcare payment integrity security challenges during organizational transformation, and you can communicate that concisely via email, I'll read it.
